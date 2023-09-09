@@ -3,76 +3,7 @@
   "include": [],
   "references": [
     {
-      "path": "./shared"
-    },
-    {
-      "path": "./accuweather"
-    },
-    {
-      "path": "./anchain"
-    },
-    {
-      "path": "./ap-sports"
-    },
-    {
-      "path": "./big-mac-index"
-    },
-    {
-      "path": "./boilerplate"
-    },
-    {
-      "path": "./chartmetric"
-    },
-    {
-      "path": "./crd-network"
-    },
-    {
-      "path": "./dns-query"
-    },
-    {
-      "path": "./enetscores"
-    },
-    {
-      "path": "./freelance-jobs"
-    },
-    {
-      "path": "./generic"
-    },
-    {
-      "path": "./genesis-volatility"
-    },
-    {
-      "path": "./heni"
-    },
-    {
-      "path": "./kyc"
-    },
-    {
-      "path": "./nftbank"
-    },
-    {
-      "path": "./nft-analytics"
-    },
-    {
-      "path": "./nft-metrics"
-    },
-    {
-      "path": "./sportsdataio-linkpool"
-    },
-    {
-      "path": "./tac-index"
-    },
-    {
       "path": "./therundown-lp"
-    },
-    {
-      "path": "./therundown-thales"
-    },
-    {
-      "path": "./upshot"
-    },
-    {
-      "path": "./wavebridge"
     }
   ]
 }
